@@ -1,0 +1,24 @@
+{
+  "name": "synkron",
+  "version": "1.0.0",
+  "description": "Nope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabienfoerster/synkron.git"
+  },
+  "author": "Fabien Foerster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabienfoerster/synkron/issues"
+  },
+  "homepage": "https://github.com/fabienfoerster/synkron#readme",
+  "dependencies": {
+    "next": "*",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
+  }
+}
